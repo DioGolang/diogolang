@@ -20,7 +20,7 @@ Especializado em:
 
 🗄️ Bancos de Dados: Domino o PostgreSQL para gerenciar dados de maneira eficiente e confiável.
 
-🏗️ Arquitetura MVC: Garanto que meus projetos sejam organizados, modulares e fáceis de escalar.
+🏗️ Arquitetura MVC: Garanto que meus projetos sejam organizados, modulares e fáceis de escalar
 
 🌟 Apaixonado por:
 
