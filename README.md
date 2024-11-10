@@ -46,7 +46,8 @@ Here are some ideas to get you started:
 <div style="display: inline_block">
     <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogolang&layout=compact&theme=dracula&langs_count=10">
     <img height=200  src="https://github-readme-streak-stats.herokuapp.com/?user=diogolang&theme=dracula&hide_border=false">
-   <! --  img height=200  src="https://github-readme-stats.vercel.app/api?username=diogolang&show_icons=true&theme=dracula" -->
+  
+ <! --  img height=200  src="https://github-readme-stats.vercel.app/api?username=diogolang&show_icons=true&theme=dracula" -->
 </div>
 
 ##
