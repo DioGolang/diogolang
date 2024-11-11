@@ -48,11 +48,11 @@ Here are some ideas to get you started:
     <img height=200  src="https://github-readme-streak-stats.herokuapp.com/?user=diogolang&theme=dracula&hide_border=false">
 </div>
 
- <!--  img height=200  src="https://github-readme-stats.vercel.app/api?username=diogolang&show_icons=true&theme=dracula" -->
+ <img height=200  src="https://github-readme-stats.vercel.app/api?username=diogolang&show_icons=true&theme=dracula">
    
 ##
 
-<img align="center" alt="vasco-Python" src="https://repository-images.githubusercontent.com/521515652/d0a2676e-2a17-4ad1-8e2d-54dc08db0db7">
+<!-- img align="center" alt="vasco-Python" src="https://repository-images.githubusercontent.com/521515652/d0a2676e-2a17-4ad1-8e2d-54dc08db0db7" -->
 
 ##
 ### ❤️‍🔥 I love these technologies and I use them 
