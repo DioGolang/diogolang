@@ -46,10 +46,10 @@ Here are some ideas to get you started:
 <div style="display: inline_block">
     <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogolang&layout=compact&theme=dracula&langs_count=10">
     <img height=200  src="https://github-readme-streak-stats.herokuapp.com/?user=diogolang&theme=dracula&hide_border=false">
-  
- <!--  img height=200  src="https://github-readme-stats.vercel.app/api?username=diogolang&show_icons=true&theme=dracula" --!>
 </div>
 
+ <!-  img height=200  src="https://github-readme-stats.vercel.app/api?username=diogolang&show_icons=true&theme=dracula" -!>
+   
 ##
 
 <img align="center" alt="vasco-Python" src="https://repository-images.githubusercontent.com/521515652/d0a2676e-2a17-4ad1-8e2d-54dc08db0db7">
