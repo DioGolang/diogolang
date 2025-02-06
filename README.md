@@ -80,9 +80,9 @@ Here are some ideas to get you started:
 <img align="center" alt="vasco-React" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 <img align="center" alt="vasco-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="vasco-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-<img align="center" alt="vasco-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons//bootstrap/bootstrap-original.svg">
+<img align="center" alt="bootstrap-original" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons//bootstrap/bootstrap-original.svg">
 <img align="center" alt="vasco-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="vasco-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
+<img align="center" alt="pycharm-original" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
 <img align="center" alt="vasco-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/goland/goland-original.svg">
 <img align="center" alt="vasco-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg">
 <img align="center" alt="vasco-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dataspell/dataspell-original.svg">
