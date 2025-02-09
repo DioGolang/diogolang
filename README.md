@@ -83,11 +83,11 @@ Here are some ideas to get you started:
 <img align="center" alt="bootstrap-original" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 <img align="center" alt="vasco-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="pycharm-original" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
-<img align="center" alt="vasco-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/goland/goland-original.svg">
-<img align="center" alt="vasco-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg">
-<img align="center" alt="vasco-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dataspell/dataspell-original.svg">
-<img align="center" alt="vasco-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original.svg">
-<img align="center" alt="vasco-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg">
+<img align="center" alt="goland" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/goland/goland-original.svg">
+<img align="center" alt="datagrip" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg">
+<img align="center" alt="dataspell" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dataspell/dataspell-original.svg">
+<img align="center" alt="phpstorm-original" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original.svg">
+<img align="center" alt="webstorm" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg">
 
 </div>
 
