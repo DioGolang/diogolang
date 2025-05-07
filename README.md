@@ -17,13 +17,14 @@ import (
 )
 
 type Developer struct {
-  Name        string
-  Languages   []string
-  Frameworks  []string
-  Databases   []string
-  Specialties []string
-  Passions    []string
-  Available   bool
+	Name        string
+	Languages   []string
+	Frameworks  []string
+	Databases   []string
+	Tools       []string
+	Specialties []string
+	Passions    []string
+	Available   bool
 }
 
 func (d Developer) Code() {
@@ -45,8 +46,9 @@ func main() {
       "Go", "TypeScript", "PHP", "Python"
     },
     Frameworks: []string{
-      "React", "Next.js", "NestJS", "Laravel", "Tailwind CSS", "Docker",
+      "React", "Next.js", "NestJS", "Laravel", "Tailwind CSS",
     },
+    Tools: []string{"Docker"},
     Databases: []string{"PostgreSQL"},
     Specialties: []string{
       "Front-end responsivo",
