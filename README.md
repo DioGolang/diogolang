@@ -49,6 +49,29 @@ func (d Developer) Focus(area string) {
 	fmt.Printf("🔭 Aprofundando conhecimentos em %s para construir soluções de alta qualidade.\n", area)
 }
 
+// DeployService simula o deploy de um serviço específico em paralelo.
+func (d Developer) DeployService(service string, wg *sync.WaitGroup) {
+	defer wg.Done()
+	fmt.Printf("🚀 Iniciando o deploy de %s...\n", service)
+	time.Sleep(time.Second * 1 + time.Duration(len(service))*time.Millisecond*200) // Simula tempo de deploy variável
+	fmt.Printf("✅ %s foi deployado com sucesso!\n", service)
+}
+
+func (d Developer) ShowcaseParallelDeploy() {
+	fmt.Println("\n⚙️ Demonstrando o deploy paralelo de serviços:")
+
+	services := []string{"Frontend", "Backend API", "Banco de Dados", "Serviços de Cache"}
+	var wg sync.WaitGroup
+
+	for _, service := range services {
+		wg.Add(1)
+		go d.DeployService(service, &wg)
+	}
+
+	wg.Wait() // Espera todos os serviços serem deployados
+	fmt.Println("\n🎉 Todos os serviços foram deployados em paralelo!")
+}
+
 func (d Developer) Connect() {
 	fmt.Printf("\n🤝 Conecte-se comigo no GitHub: %s ou LinkedIn: %s para explorarmos juntos o futuro da tecnologia!\n", d.GitHub, d.LinkedIn)
 }
@@ -88,6 +111,7 @@ func main() {
 
 	fmt.Printf("👋 Olá, eu sou %s!\n", diogo.Name)
 	diogo.Code()
+        diogo.ShowcaseParallelDeploy()
 	diogo.Learn("as melhores práticas do futuro")
 
 	fmt.Println("\n✨ Minhas principais áreas de especialidade incluem:")
