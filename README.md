@@ -1,7 +1,5 @@
 ![eu](https://raw.githubusercontent.com/diogolang/diogolang/main/eu.jpg)
 
-## Olá Sou Diogo Vasconcelos 👋
-
 # 👋 Olá, sou Diogo Vasconcelos
 
 Sou aquele desenvolvedor que adora transformar ideias em **código vivo e funcional**. Minha jornada no desenvolvimento web me levou a explorar e dominar várias tecnologias e ferramentas modernas.
