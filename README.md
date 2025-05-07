@@ -111,6 +111,7 @@ func main() {
 
 	fmt.Printf("👋 Olá, eu sou %s!\n", diogo.Name)
 	diogo.Code()
+	diogo.Build()
         diogo.ShowcaseParallelDeploy()
 	diogo.Learn("as melhores práticas do futuro")
 
@@ -133,7 +134,6 @@ func main() {
 	}
 
         diogo.Connect()
-	diogo.Build()
         time.Sleep(time.Hour * 24 * 365) // ⏳ Sempre aprendendo, sempre evoluindo...
 }
 ```
