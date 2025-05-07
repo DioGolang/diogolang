@@ -23,8 +23,10 @@ type Developer struct {
 	Frameworks  []string
 	Databases   []string
 	Tools       []string
-	Specialties []string
+	Expertise   []string
 	Passions    []string
+        GitHub      string
+        LinkedIn    string
 	Available   bool
 }
 
@@ -43,6 +45,14 @@ func (d Developer) Build() {
 	fmt.Println("🏗️ Construindo aplicações web do front ao banco de dados.")
 }
 
+func (d Developer) Focus(area string) {
+	fmt.Printf("🔭 Aprofundando conhecimentos em %s para construir soluções de alta qualidade.\n", area)
+}
+
+func (d Developer) Connect() {
+	fmt.Printf("\n🤝 Conecte-se comigo no GitHub: %s ou LinkedIn: %s para explorarmos juntos o futuro da tecnologia!\n", d.GitHub, d.LinkedIn)
+}
+
 func main() {
 	diogo := Developer{
 		Name: "Diogo Vasconcelos",
@@ -58,31 +68,49 @@ func main() {
 		Tools: []string{
 			"Docker",
 		},
-		Specialties: []string{
-			"APIs seguras",
-			"Arquitetura MVC",
-			"Back-end escalável",
+		Expertise: []string{
+			"APIs RESTful e seguras",
+			"Arquitetura de microsserviços",
+			"Desenvolvimento Back-end escalável",
 			"Front-end responsivo",
 			"SEO",
 		},
 		Passions: []string{
-			"APIs bem documentadas",
-			"Interfaces elegantes",
-			"Segurança e performance",
+			"Código limpo e bem documentado",
+			"Performance e escalabilidade",
+			"Resolução de problemas complexos",
+                        "Cultura de aprendizado e colaboração",
 		},
+                GitHub: "github.com/DioGolang"
+                LinkedIn:  "linkedin.com/in/diogolang",
 		Available: true,
 	}
 
 	fmt.Printf("👋 Olá, eu sou %s!\n", diogo.Name)
 	diogo.Code()
-	diogo.Build()
 	diogo.Learn("as melhores práticas do futuro")
 
-	if diogo.Available {
-		fmt.Println("🚀 Pronto para construir algo incrível juntos!")
+	fmt.Println("\n✨ Minhas principais áreas de especialidade incluem:")
+	for _, expertise := range diogo.Expertise {
+		fmt.Printf("🚀 %s\n", expertise)
 	}
 
-	time.Sleep(time.Hour * 24 * 365) // ⏳ Sempre aprendendo, sempre evoluindo...
+	fmt.Println("\n💡 No meu dia a dia, sou movido por:")
+	for _, passion := range diogo.Passions {
+		fmt.Printf("🔥 %s\n", passion)
+	}
+
+	diogo.Focus("Arquiteturas escaláveis e performantes")
+
+	if diogo.Available {
+		fmt.Println("\n✅ Atualmente disponível para novos desafios e oportunidades!")
+	} else {
+		fmt.Println("\n⏳ No momento, estou focado em projetos existentes, mas aberto a conversas futuras.")
+	}
+
+        diogo.Connect()
+	diogo.Build()
+        time.Sleep(time.Hour * 24 * 365) // ⏳ Sempre aprendendo, sempre evoluindo...
 }
 ```
 
