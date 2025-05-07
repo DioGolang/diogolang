@@ -12,10 +12,11 @@ Sou aquele desenvolvedor que adora transformar ideias em **código vivo e funcio
 package main
 
 import (
-  "fmt"
-  "time"
+	"fmt"
+	"time"
 )
 
+// Developer representa um desenvolvedor apaixonado por tecnologia e boas práticas.
 type Developer struct {
 	Name        string
 	Languages   []string
@@ -27,54 +28,61 @@ type Developer struct {
 	Available   bool
 }
 
+// Code transforma ideias em software funcional.
 func (d Developer) Code() {
-  fmt.Println("Transformando ideias em código funcional 🚀")
+	fmt.Println("💡 Transformando ideias em código funcional e elegante.")
 }
 
+// Learn mostra o compromisso com aprendizado contínuo.
 func (d Developer) Learn(newTech string) {
-  fmt.Printf("Aprendendo %s para entregar soluções ainda melhores 📚\n", newTech)
+	fmt.Printf("🔍 Explorando %s para entregar soluções cada vez melhores.\n", newTech)
 }
 
+// Build representa a construção de soluções completas.
 func (d Developer) Build() {
-  fmt.Println("Construindo aplicações web completas, do pixel ao banco de dados 🛠️")
+	fmt.Println("🏗️ Construindo aplicações web do front ao banco de dados.")
 }
 
 func main() {
-  diogo := Developer{
-    Name: "Diogo Vasconcelos",
-    Languages: []string{
-      "Go", "TypeScript", "PHP", "Python"
-    },
-    Frameworks: []string{
-      "React", "Next.js", "NestJS", "Laravel", "Tailwind CSS",
-    },
-    Tools: []string{"Docker"},
-    Databases: []string{"PostgreSQL"},
-    Specialties: []string{
-      "Front-end responsivo",
-      "Back-end escalável",
-      "APIs seguras",
-      "Arquitetura MVC",
-      "SEO",
-    },
-    Passions: []string{
-      "Interfaces elegantes",
-      "APIs bem documentadas",
-      "Segurança e performance",
-    },
-    Available: true,
-  }
+	diogo := Developer{
+		Name: "Diogo Vasconcelos",
+		Languages: []string{
+			"Go", "PHP", "Python", "TypeScript",
+		},
+		Frameworks: []string{
+			"Laravel", "NestJS", "Next.js", "React", "Tailwind CSS",
+		},
+		Databases: []string{
+			"PostgreSQL",
+		},
+		Tools: []string{
+			"Docker",
+		},
+		Specialties: []string{
+			"APIs seguras",
+			"Arquitetura MVC",
+			"Back-end escalável",
+			"Front-end responsivo",
+			"SEO",
+		},
+		Passions: []string{
+			"APIs bem documentadas",
+			"Interfaces elegantes",
+			"Segurança e performance",
+		},
+		Available: true,
+	}
 
-  fmt.Printf("👋 Olá, eu sou %s!\n", diogo.Name)
-  diogo.Code()
-  diogo.Build()
-  diogo.Learn("as melhores práticas do futuro")
+	fmt.Printf("👋 Olá, eu sou %s!\n", diogo.Name)
+	diogo.Code()
+	diogo.Build()
+	diogo.Learn("as melhores práticas do futuro")
 
-  if diogo.Available {
-    fmt.Println("🔧 Pronto para construir algo incrível juntos!")
-  }
+	if diogo.Available {
+		fmt.Println("🚀 Pronto para construir algo incrível juntos!")
+	}
 
-  time.Sleep(time.Hour * 24 * 365) // Sempre aprendendo, sempre evoluindo
+	time.Sleep(time.Hour * 24 * 365) // ⏳ Sempre aprendendo, sempre evoluindo...
 }
 ```
 
