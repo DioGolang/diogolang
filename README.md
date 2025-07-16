@@ -140,7 +140,6 @@ func main() {
 ```
 
 ## O que o código acima significa?
----
 
 Meu foco é projetar arquiteturas de microsserviços escaláveis e resilientes (como demonstrado na função ShowcaseParallelDeploy), aplicando princípios de Domain-Driven Design (DDD) e Clean Architecture. Sou apaixonado por código limpo, performance e por resolver problemas complexos, sempre buscando as melhores ferramentas para o trabalho, como Go, TypeScript, Docker e PostgreSQL.
 
