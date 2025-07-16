@@ -305,6 +305,9 @@ Here are some ideas to get you started:
 
 ##
 ### Number of visitors
-<img src="https://profile-counter.glitch.me/%7Bdiogolang%7D/count.svg"></a>
+
+<img src="https://profile-counter.glitch.me/%7Bdiogolang%7D/count.svg">
+
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=diogolang) -->
 
 
