@@ -13,6 +13,7 @@ package main
 
 import (
 	"fmt"
+        "sync"
 	"time"
 )
 
@@ -138,6 +139,11 @@ func main() {
 }
 ```
 
+## O que o código acima significa?
+---
+
+Meu foco é projetar arquiteturas de microsserviços escaláveis e resilientes (como demonstrado na função ShowcaseParallelDeploy), aplicando princípios de Domain-Driven Design (DDD) e Clean Architecture. Sou apaixonado por código limpo, performance e por resolver problemas complexos, sempre buscando as melhores ferramentas para o trabalho, como Go, TypeScript, Docker e PostgreSQL.
+
 ---
 
 - 💡 Transformando ideias em código funcional e elegante
@@ -149,10 +155,7 @@ func main() {
 
 ## 🚀 Tecnologias e ferramentas
 
-* **Linguagens:** Go,TypeScript, PHP, Python
-* **Frameworks & libs:** React, Next.js, NestJS, Laravel, Tailwind CSS, Docker
-* **Banco de Dados:** PostgreSQL
-* **Especialidades:** Front-end moderno, APIs seguras, arquitetura MVC, SEO técnico
+Utilizo Go para construir microsserviços performáticos e com alta concorrência. Adoto TypeScript com NestJS para criar APIs robustas e escaláveis com princípios de DDD. Orquestro tudo com Docker e Kubernetes para garantir resiliência e escalabilidade, e uso RabbitMQ para a comunicação assíncrona em arquiteturas orientadas a eventos.
 
 ---
 
