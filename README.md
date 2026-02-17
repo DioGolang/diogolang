@@ -260,9 +260,9 @@ Here are some ideas to get you started:
 <!--img align="center" alt="react-original" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" -->
 <img align="center" alt="docker-original" height="90" width="77" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 <img align="center" alt="kubernetes" height="65" width="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />      
-<img  align="center" alt="terraform-original" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
+<img  align="center" alt="terraform original" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
 <img align="center" alt="yaml-original" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yaml/yaml-original.svg">
-<img align="center" alt="git-original" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<img align="center" alt="git original" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 <img align="center" alt="vasco-React" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 <img align="center" alt="amazonwebservices" height="80" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 <img align="center" alt="googlecloud" height="80" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
