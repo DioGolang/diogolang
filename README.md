@@ -1,12 +1,28 @@
 ![eu](https://raw.githubusercontent.com/diogolang/diogolang/main/eu.jpg)
 
-# 👋 Olá, sou Diogo Vasconcelos
+# 👋 Diogo Vasconcelos
 
-Sou aquele desenvolvedor que adora transformar ideias em **código vivo e funcional**. Minha jornada no desenvolvimento web me levou a explorar e dominar várias tecnologias e ferramentas modernas.
+### 🚀 Go Backend Engineer | Microsservices | Distributed Systems | High Performance APIs
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend-Engineering-0A0A0A?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-blue?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-00C853?style=for-the-badge)
 
 ---
 
-## ⚙️ Sobre mim em forma de código Go
+## 🧠 Sobre mim
+
+Sou desenvolvedor focado em **backend com Go**, especializado em **microsserviços, concorrência e sistemas distribuídos**.
+
+💡 Transformo problemas complexos em soluções simples, performáticas e escaláveis.
+
+⚙️ Experiência com APIs robustas, mensageria, containers e arquitetura orientada a eventos.
+
+---
+
+## ⚙️ Who am I in Go?
 
 ```go
 package main
@@ -197,14 +213,6 @@ Utilizo Go para construir microsserviços performáticos e com alta concorrênci
 
 ```
 
-## 📬 Conecte-se comigo
-
-- 🤝 Vamos explorar juntos o futuro da tecnologia!
-- 🔗 GitHub
-- 🔗 LinkedIn
-
----
-
 ## ✅ Disponível para novos desafios!
 
 ⏳ Sempre aprendendo, sempre evoluindo...
@@ -221,7 +229,7 @@ for {
 
 ### 🤝 Vamos construir algo incrível juntos?
 
-#DesenvolvedorFullStack #CientistaDeDados #React #Python #TailwindCSS #Node #Go #MachineLearning #SQL #Git #Docker #NestJS #NextJS
+#DesenvolvedorFullStack #React #Python #TailwindCSS #Node #Go #MachineLearning #SQL #Git #Docker #NestJS #NextJS
 
 Here are some ideas to get you started:
 
@@ -232,9 +240,11 @@ Here are some ideas to get you started:
 - ☕ I Love Coffee
 
 
-<div style="display: inline_block">
-    <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogolang&layout=compact&theme=dracula&langs_count=10">
-    <img height=200  src="https://github-readme-streak-stats.herokuapp.com/?user=diogolang&theme=dracula&hide_border=false">
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogolang&show_icons=true&theme=dracula"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=diogolang&theme=dracula"/>
+
 </div>
 
  <!-- img height=200  src="https://github-readme-stats.vercel.app/api?username=diogolang&show_icons=true&theme=dracula" -->
@@ -243,51 +253,47 @@ Here are some ideas to get you started:
 
 <img align="center" alt="vasco-Python" src="https://repository-images.githubusercontent.com/521515652/d0a2676e-2a17-4ad1-8e2d-54dc08db0db7">
 
-##
-### ❤️‍🔥 I love these technologies and I use them 
-<div style="display: inline_block">    
-  <br>
-<img align="center" alt="vasco-Python" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="vasco-Js" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-<img align="center" alt="vasco-Csharp" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-<img align="center" alt="vasco-Ts" height="80" width="100"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-<img align="center" alt="vasco-Ts" height="50" width="60"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img align="center" alt="vasco-Ts" height="50" width="60"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<img align="center" alt="vasco-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
-<img align="center" alt="nextjs-original" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-<img align="center" alt="express-original" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-<img align="center" alt="laravel-original." height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-<!--img align="center" alt="react-original" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" -->
-<img align="center" alt="docker-original" height="90" width="77" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-<img align="center" alt="kubernetes" height="65" width="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />      
-<img  align="center" alt="terraform original" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
-<img align="center" alt="yaml-original" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yaml/yaml-original.svg">
-<img align="center" alt="git original" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<img align="center" alt="vasco-React" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-<img align="center" alt="amazonwebservices" height="80" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-<img align="center" alt="googlecloud" height="80" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
-<img align="center" alt="linux-original" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-<img align="center" alt="fedora" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" />
-<img align="center" alt="linux-original" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg" />          
-<img align="center" alt="postgresql-original" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-<img align="center" alt="vasco-React" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-<img align="center" alt="mongodb" height="72" width="81" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-<img align="center" alt="mongoose" height="72" width="81" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" />      
-<img align="center" alt="rabbitmq-original" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
-<img align="center" alt="vasco-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="tailwindcss" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-<img align="center" alt="bootstrap-original" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-<img align="center" alt="vasco-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="pycharm-original" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
-<img align="center" alt="goland" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/goland/goland-original.svg">
-<img align="center" alt="datagrip" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg">
-<img align="center" alt="dataspell" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dataspell/dataspell-original.svg">
-<img align="center" alt="phpstorm-original" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original.svg">
-<img align="center" alt="webstorm" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg">
+## 🚀 Tech Stack
 
+### 🧠 Backend
+<div>
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
 
-##
+### 🎨 Frontend
+<div>
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+</div>
+
+### ⚙️ DevOps & Cloud
+<div>
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg">
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+</div>
+
+### 🗄️ Databases & Messaging
+<div>
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg">
+</div>
+
+### 🛠️ Tools
+<div>
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+</div>
 
 <div align="center">
 
@@ -297,22 +303,28 @@ Here are some ideas to get you started:
  <a href="https://discord.gg/diogolang" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
 </div>
- 
-##
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devsvasconcelos/devsvasconcelos/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devsvasconcelos/devsvasconcelos/output/github-contribution-grid-snake.svg">
-</picture>
+---
 
-##
-### Number of visitors
+## 🧠 Engineering Mindset
 
-<img src="https://profile-counter.glitch.me/%7Bdiogolang%7D/count.svg">
+- 🧩 Design orientado a domínio (DDD)
+- ⚡ Sistemas distribuídos e resilientes
+- 🚀 Alta concorrência com Go (goroutines & channels)
+- 📦 Arquitetura orientada a eventos
+- 🔍 Observabilidade e performance
+
+---
+
+## 📬 Let's build something great
+
+💼 Open to opportunities  
+🚀 Always working on scalable systems  
+
+- 🔗 GitHub: https://github.com/diogolang  
+- 🔗 LinkedIn: https://linkedin.com/in/diogolang  
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=diogolang) -->
-
-##
 
 <!--
 
@@ -348,3 +360,9 @@ Here are some ideas to get you started:
 
 -->
 
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devsvasconcelos/devsvasconcelos/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devsvasconcelos/devsvasconcelos/output/github-contribution-grid-snake.svg">
+</picture>
