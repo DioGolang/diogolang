@@ -316,15 +316,31 @@ Here are some ideas to get you started:
 
 ---
 
+<!--
+
+## 💼 Projetos Recentes
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<a href="https://github.com/diogolang/projeto1"><img src="https://img.shields.io/badge/Projeto1-Go%20Backend-00ADD8?style=for-the-badge" /></a>
+<a href="https://github.com/diogolang/projeto2"><img src="https://img.shields.io/badge/Projeto2-React%20Frontend-61DAFB?style=for-the-badge" /></a>
+<a href="https://github.com/diogolang/projeto3"><img src="https://img.shields.io/badge/Projeto3-NestJS%20API-E0234E?style=for-the-badge" /></a>
+</div>
+
+-->
+
+---
+
 ## 📬 Let's build something great
 
 💼 Open to opportunities  
 🚀 Always working on scalable systems  
 
-- 🔗 GitHub: https://github.com/diogolang  
-- 🔗 LinkedIn: https://linkedin.com/in/diogolang  
+<div style="display: flex; gap: 10px;">
+<a href="https://github.com/diogolang"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/diogolang"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<!--<a href="https://discord.gg/diogolang"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a> -->
+</div>
 
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=diogolang) -->
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=diogolang&style=for-the-badge&color=blue) -->
 
 <!--
 
