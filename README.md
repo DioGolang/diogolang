@@ -278,6 +278,8 @@ Here are some ideas to get you started:
 <img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"> &nbsp;&nbsp;&nbsp;&nbsp;
 <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"> &nbsp;&nbsp;&nbsp;&nbsp;
 <img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" />          
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ"> 
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
