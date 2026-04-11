@@ -305,6 +305,27 @@ Here are some ideas to get you started:
 
 ---
 
+## 🏗️ Observability & Reliability Stack
+
+> "If it’s not monitored, it’s not in production."
+
+Eu projeto sistemas focados em transparência operacional, utilizando o padrão **OpenTelemetry (OTel)** para evitar vendor lock-in e garantir uma visão holística da saúde do sistema.
+
+### 📊 Monitoring Strategy
+
+* **Metrics (Prometheus & Grafana):** Implementação de métricas **RED** (Rate, Errors, Duration) para serviços e **USE** (Utilization, Saturation, Errors) para infraestrutura.
+* **Distributed Tracing (Jaeger & Tempo):** Rastreamento de requisições cross-service para identificar gargalos de latência e falhas em cascatas em arquiteturas de microsserviços.
+* **Structured Logging (Zap & Loki):** Logs estruturados (JSON) correlacionados com `trace_id` para depuração precisa e análise de causa raiz.
+
+### 🛠️ Tooling
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white)
+![Jaeger](https://img.shields.io/badge/Jaeger-65D3E3?style=for-the-badge&logo=jaeger&logoColor=white)
+
+---
+
+
 <!--
 
 ## 💼 Projetos Recentes
