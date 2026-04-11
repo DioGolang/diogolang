@@ -257,9 +257,10 @@ Here are some ideas to get you started:
 
 ### 🧠 Backend
 <img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS"> &nbsp;&nbsp;&nbsp;&nbsp;
 <img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP"> &nbsp;&nbsp;&nbsp;&nbsp;
 <img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS">
+
 
 ### 🎨 Frontend
 <img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js"> &nbsp;&nbsp;&nbsp;&nbsp;
