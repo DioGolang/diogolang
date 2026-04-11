@@ -262,7 +262,6 @@ Here are some ideas to get you started:
 <img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS">
 
 ### 🎨 Frontend
-<img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"> &nbsp;&nbsp;&nbsp;&nbsp;
 <img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js"> &nbsp;&nbsp;&nbsp;&nbsp;
 <img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS"> &nbsp;&nbsp;&nbsp;&nbsp;
 <img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -278,7 +277,11 @@ Here are some ideas to get you started:
 <img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"> &nbsp;&nbsp;&nbsp;&nbsp;
 <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"> &nbsp;&nbsp;&nbsp;&nbsp;
 <img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ">
+<img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ"> 
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+          
 
 ### 🛠️ Tools
 <img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"> &nbsp;&nbsp;&nbsp;&nbsp;
