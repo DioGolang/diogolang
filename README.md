@@ -1,4 +1,4 @@
-![eu](https://raw.githubusercontent.com/diogolang/diogolang/main/eu.jpg)
+![eu](https://raw.githubusercontent.com/diogolang/diogolang/main/eu1.png)
 
 # 👋 Diogo Vasconcelos
 
