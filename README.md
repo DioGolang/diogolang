@@ -256,45 +256,34 @@ Here are some ideas to get you started:
 ## 🚀 Tech Stack
 
 ### 🧠 Backend
-<div>
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-</div>
+<img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS">
 
 ### 🎨 Frontend
-<div>
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-</div>
+<img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript">
 
 ### ⚙️ DevOps & Cloud
-<div>
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-</div>
+<img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS">
 
 ### 🗄️ Databases & Messaging
-<div>
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg">
-</div>
+<img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ">
 
 ### 🛠️ Tools
-<div>
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-</div>
-
+<img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux">
 <div align="center">
 
   <a href="https://www.linkedin.com/in/diogolang" target="_blank">
