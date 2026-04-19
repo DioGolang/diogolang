@@ -242,7 +242,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogolang&show_icons=true&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogolang&layout=compact&langs_count=10&hide=css,html&theme=dracula"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=diogolang&theme=dracula"/>
 
 </div>
