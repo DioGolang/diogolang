@@ -42,8 +42,8 @@ type Developer struct {
 	Tools       []string
 	Expertise   []string
 	Passions    []string
-        GitHub      string
-        LinkedIn    string
+    GitHub      string
+    LinkedIn    string
 	Available   bool
 }
 
