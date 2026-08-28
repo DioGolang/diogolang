@@ -282,7 +282,7 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ"> 
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" alt="apache kafka" />
+<img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" alt="Apache Kafka" />
 &nbsp;&nbsp;&nbsp;&nbsp;
           
 
